@@ -101,7 +101,7 @@ body {
 }
 
 .shadow {
-    box-shadow: 0 0 20px gainsboro;
+    box-shadow: 0 0 20px #800000;
     border-radius: 10px;
 }
 nav ul{
@@ -123,7 +123,7 @@ nav li {
         font-size: 30px;
     }
     nav ul {
-        background-color: rgb(243, 251, 254);
+        background-color: rgb(255, 255, 255);
     }
 }
 
@@ -132,7 +132,7 @@ nav li a {
 }
 
 nav li:hover {
-    background-color:  rgb(225, 245, 253);
+    background-color:  rgb(255, 255, 255);
 }
 
 .text-right{
@@ -162,10 +162,10 @@ a {
     background-color: rgb(61, 161, 81);
 }
 .bg-orange {
-    background-color: orange;
+    background-color: rgb(255, 166, 0);
 }
 .text-white {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .text-red {
     color: red;
