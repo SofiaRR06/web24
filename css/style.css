@@ -4,7 +4,7 @@ body {
 
 * {
     box-sizing: border-box;
-    color: rgb(18, 0, 110);
+    color: rgb(108, 26, 26);
 }
 
 /* For desktop: */
@@ -123,16 +123,16 @@ nav li {
         font-size: 30px;
     }
     nav ul {
-        background-color: rgb(255, 255, 255);
+        background-color: #ffffff;
     }
 }
 
 nav li a {
-    color: rgb(18, 0, 110);
+    color: rgb(108, 26, 26);
 }
 
 nav li:hover {
-    background-color:  rgb(255, 255, 255);
+    background-color:  #ffffff;
 }
 
 .text-right{
