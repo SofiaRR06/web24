@@ -260,7 +260,7 @@ h1 {
     background-color:cornflowerblue;
 }
 
-.dias{
+.horario .dias{
     background-color: #f0f0f0;
     color:#407d82 ;
 }
@@ -332,3 +332,27 @@ h1 {
     background-color: antiquewhite;
     color: black;
 }
+.horario{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#multimedia video{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.tituloVideo{
+    text-align: center;
+}
+.tituloGaleria{
+    text-align: center;
+}
+.tituloAudio{
+    text-align: center;
+}
+#multimedia audio{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
